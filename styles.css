@@ -1,6 +1,7 @@
 body {
     position: relative;
     background:  linear-gradient(90deg, rgb(252, 154, 154), rgb(250, 116, 139));
+    background-attachment: fixed;
 }
 body::before{
     background-image: url(recipes/images/tasssepink.png);
