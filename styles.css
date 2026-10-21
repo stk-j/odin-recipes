@@ -84,4 +84,5 @@ img:hover {
 }
 ol {
   padding-left: 0;
+    list-style-position: inside;
 }
