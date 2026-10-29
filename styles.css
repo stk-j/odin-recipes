@@ -91,5 +91,9 @@ ul {
     list-style-position: inside;
 }
 a {
+    display: inline-block;
   text-decoration: none;
+}
+a.disclaimer {
+    margin: 10 auto;
 }
