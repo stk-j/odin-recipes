@@ -95,5 +95,7 @@ a {
   text-decoration: none;
 }
 a.disclaimer {
-    margin: 10 auto;
+    display: block;
+    margin: 10px auto;
+    text-align: center;
 }
